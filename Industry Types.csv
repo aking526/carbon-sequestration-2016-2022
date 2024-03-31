@@ -1,0 +1,57 @@
+﻿Subpart Letter,Name of industry,Facility Type
+C,Stationary Combustion,Direct Emitter
+D,Electricity Generation,Direct Emitter
+E,Adipic Acid Production,Direct Emitter
+F,Aluminum Production,Direct Emitter
+G,Ammonia Manufacturing,Direct Emitter
+H,Cement Production,Direct Emitter
+I,Electronics Manufacture,Direct Emitter
+K,Ferroalloy Production,Direct Emitter
+L,Fluorinated GHG Production,Direct Emitter
+N,Glass Production,Direct Emitter
+O,HCFC–22 Production and HFC–23 Destruction,Direct Emitter
+P,Hydrogen Production,Direct Emitter
+Q,Iron and Steel Production,Direct Emitter
+R,Lead Production,Direct Emitter
+S,Lime Production,Direct Emitter
+T,Magnesium Production,Direct Emitter
+U,Miscellaneous Use of Carbonates,Direct Emitter
+V,Nitric Acid Production,Direct Emitter
+W,Petroleum and Natural Gas Systems,Direct Emitter
+W-OFFSH,Petroleum and Natural Gas Systems – Offshore Production,Direct Emitter
+W-ONSH,Petroleum and Natural Gas Systems – Onshore Production,Onshore Oil & Gas Production
+W-GB,Petroleum and Nautral Gas Systems - Gathering and Boosting,Gathering & Boosting
+W-PROC,Petroleum and Natural Gas Systems – Natural Gas Processing,Direct Emitter
+W-NGTC,Petroleum and Natural Gas Systems – Natural Gas Transmission/Compression,Direct Emitter
+W-TRANS,Petroleum and Natural Gas Systems – Transmission Pipelines,Transmission Pipelines
+W-UNSTG,Petroleum and Natural Gas Systems – Underground Natural Gas Storage,Direct Emitter
+W-LNGSTG,Petroleum and Natural Gas Systems – Liquified Natural Gas Storage,Direct Emitter
+W-LNGIE,Petroleum and Natural Gas Systems – Liquified Natural Gas Import/Export Equipment,Direct Emitter
+W-LDC,Petroleum and Natural Gas Systems – Natural Gas Local Distribution Company,LDC - Direct Emissions
+X,Petrochemical Production,Direct Emitter
+Y,Petroleum Refining,Direct Emitter
+Z,Phosphoric Acid Production,Direct Emitter
+AA,Pulp and Paper Manufacturing,Direct Emitter
+BB,Silicon Carbide Production,Direct Emitter
+CC,Soda Ash Manufacturing,Direct Emitter
+DD,SF6 from Electrical Equipment,SF6 from Elec. Equip.
+EE,Titanium Dioxide Production,Direct Emitter
+FF,Underground Coal Mines,Direct Emitter
+GG,Zinc Production,Direct Emitter
+HH,Municipal Landfills,Direct Emitter
+II,Industrial Wastewater Treatment,Direct Emitter
+LL,Suppliers of Coal Based Liquids Fuels,Supplier
+MM,Suppliers of Petroleum Products,Supplier
+MM – REF,Petroleum Refinery (Producer),Supplier
+MM – IMP,Petroleum Product Importer,Supplier
+MM – EXP,Petroleum Product Exporter,Supplier
+NN,Natural Gas and Natural Gas Liquid Supply,Supplier
+NN-FRAC,Natural Gas Liquids Fractionator,Supplier
+NN-LDC,Natural Gas Local Distribution Company (supply),Supplier
+OO,Non-CO2 Industrial Gas Supply,Supplier
+PP,Carbon Dioxide (CO2) Supply,Supplier
+QQ,Import and Export of Equipment Containing Fluorinated GHGs,Supplier
+RR,Geologic Sequestration of Carbon Dioxide,CO2 Injection
+SS,Manufacture of Electric Transmission and Distribution Equipment,Direct Emitter
+TT,Industrial Waste Landfills,Direct Emitter
+UU,Injection of Carbon Dioxide,CO2 Injection
