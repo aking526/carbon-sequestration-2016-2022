@@ -1,4 +1,6 @@
 # carbon-sequestration-2016-2022
+
+See this dataset on Kaggle: [CO2 Sequestration 2016-2022](https://www.kaggle.com/datasets/alistairking/co2-sequestration-2016-2022)
  
 ## CO2 Sequestration by Facility in the United States (2016-2022)
 This dataset provides information on the total mass of CO2 sequestered by various facilities across the United States from 2016 to 2022. The data is sourced from the United States Environmental Protection Agency (EPA) and includes the following details for each facility:
